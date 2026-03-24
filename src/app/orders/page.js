@@ -6,7 +6,7 @@ export default function Orders() {
   ];
 
   return (
-    <main>
+    <main className="flex justify-center items-center">
       <div className="w-1/2">
         <h1 className="text-2xl font-bold mb-4">Lista de Ordenes</h1>
 
