@@ -1,5 +1,8 @@
 # IPS CUIDADO SEGUR0 EN CASA PRUEBA TECNICA FRONTEND
 
+## Requisitos técnicos 
+- Node.js
+
 ## Instalación
 
 1. Clone el repositorio en la terminal de su sistema operativo `https://github.com/mercadosergio/ips-csc-front.git`.
