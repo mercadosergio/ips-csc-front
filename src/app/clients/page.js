@@ -4,7 +4,7 @@ export async function getClients() {
   return data;
 }
 
-export default async function Orders() {
+export default async function Clients() {
   const clients = await getClients();
 
   return (
